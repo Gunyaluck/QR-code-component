@@ -5,11 +5,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 
 ### Screenshot
-![Screenshot of my QR code component solution](./screenshot.jpg)
+![Screenshot of my QR code component solution](./images/qr-code-component.png)
 
 ### Links
 - Solution URL: [Frontend Mentor solution page]([ADD_YOUR_SOLUTION_URL_HERE])
-- Live Site URL: [Live site]([ADD_YOUR_LIVE_SITE_URL_HERE])
+- Live Site URL: [Live site]([https://qr-code-component-sigma-self-47.vercel.app])
 
 ## My process
 
@@ -33,4 +33,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - How I used it: CSS debugging, layout tips, and documentation help (README drafting).
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Gunyaluck](https://www.frontendmentor.io/profile/Gunyaluck)
