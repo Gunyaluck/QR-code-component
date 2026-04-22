@@ -8,8 +8,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![Screenshot of my QR code component solution](./images/qr-code-component.png)
 
 ### Links
-- Solution URL: [Frontend Mentor solution page]([ADD_YOUR_SOLUTION_URL_HERE])
-- Live Site URL: [Live site]([https://qr-code-component-sigma-self-47.vercel.app])
+- Live Site URL: [Live site](https://qr-code-component-sigma-self-47.vercel.app)
 
 ## My process
 
